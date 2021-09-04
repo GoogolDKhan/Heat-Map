@@ -1,5 +1,3 @@
-//color from colorbrewer, link: https://colorbrewer2.org/
-// nature of data = diverging , color scheme = RdYlBu , classes = 4
 let url =
     "https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json";
 let req = new XMLHttpRequest();
