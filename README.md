@@ -12,6 +12,7 @@
 ## Color Reference
 
 - Color advice is taken from [colorbrewer](https://colorbrewer2.org/?type=diverging&scheme=RdYlBu&n=4)
+
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Crimson | ![#d7191c](https://via.placeholder.com/10/d7191c?text=+) #d7191c |
@@ -23,6 +24,6 @@
 
 - This project is inspired by [FCC: D3 Heat Map](https://codepen.io/freeCodeCamp/full/JEXgeY)
 
-- Cheers to Ganesh H for providing an awesome (video tutorial)[https://www.youtube.com/watch?v=w5vxVj8g3cs&list=PLhGp6N0DI_1Rhbflgl9M4ntZNQNsg4G26&ab_channel=GaneshH] and [writen guide](https://www.notion.so/Visualize-Data-with-a-Heat-Map-12660e493bd940ea95625aa641db574b)
+- Cheers to Ganesh H for providing an awesome [video tutorial](https://www.youtube.com/watch?v=w5vxVj8g3cs&list=PLhGp6N0DI_1Rhbflgl9M4ntZNQNsg4G26&ab_channel=GaneshH) and [writen guide](https://www.notion.so/Visualize-Data-with-a-Heat-Map-12660e493bd940ea95625aa641db574b)
 
 - Dated : 20-06-2021
