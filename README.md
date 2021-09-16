@@ -24,6 +24,6 @@
 
 - This project is inspired by [FCC: D3 Heat Map](https://codepen.io/freeCodeCamp/full/JEXgeY)
 
-- Cheers to Ganesh H for providing an awesome [writen guide](https://www.notion.so/Visualize-Data-with-a-Heat-Map-12660e493bd940ea95625aa641db574b)
+- Cheers to Ganesh H for providing an awesome [written guide](https://www.notion.so/Visualize-Data-with-a-Heat-Map-12660e493bd940ea95625aa641db574b)
 
 - Dated : 20-06-2021
